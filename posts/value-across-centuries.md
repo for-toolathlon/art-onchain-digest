@@ -15,7 +15,7 @@ Chainlink (LINK) is quoted as the onchain anchor this week. Current USD price:
 - Title: Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'
 - Year (museum record): 1642
 - Materials: oil on oak panel (panel leaning against the stencil of the foreground figure)
-- Dimensions (per Rijksmuseum record): approx. 379.5 cm (height) x 319.5 cm (width) (varies slightly across historical records)
+- Dimensions (per Rijksmuseum record): approx. 379.5 cm (height) x 319.5 cm (width)
 - Period: Dutch Golden Age
 
 ## Art Corner: Rembrandt's Chronology (dated works from Rijksmuseum data)
